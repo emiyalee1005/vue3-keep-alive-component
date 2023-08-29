@@ -28,6 +28,16 @@
       "require": "./dist/main.umd.js"
     }
   },
+  "keywords": [
+    "vue",
+    "vue-router",
+    "vue 3",
+    "vue router",
+    "keep-alive",
+    "router",
+    "keepalive",
+    "vite"
+  ],
   "dependencies": {
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
