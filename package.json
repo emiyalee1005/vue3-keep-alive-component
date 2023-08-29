@@ -1,6 +1,10 @@
 {
   "name": "vue3-keep-alive-component",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiyalee1005/vue3-keep-alive-component.git"
+  },
   "private": true,
   "scripts": {
     "dev": "vite",

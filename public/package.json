@@ -1,9 +1,13 @@
 {
   "name": "vue3-keep-alive-component",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "",
   "main": "main.es.js",
   "types": "main.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiyalee1005/vue3-keep-alive-component.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
