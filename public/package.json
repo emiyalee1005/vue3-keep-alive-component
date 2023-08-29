@@ -1,7 +1,7 @@
 {
   "name": "vue3-keep-alive-component",
-  "version": "1.0.8",
-  "description": "",
+  "version": "1.0.10",
+  "description": "A workaround solution for vue3 router&keep-alive components issue: keep-alive component in nested route result in child route mounted twice (https://www.npmjs.com/package/vue3-keep-alive-component)",
   "main": "main.es.js",
   "types": "main.d.ts",
   "repository": {
