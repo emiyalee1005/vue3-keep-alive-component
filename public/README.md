@@ -41,15 +41,9 @@ const activatedRoute = useActivatedRoute() // a replacement api for official api
 ## Building
 
 * Clone this repo
-* Make sure you have node-js `>=18.16` and [pnpm](https://pnpm.io/) `>=8.x` pre-installed
+* Make sure you have node-js `>=18.16`
 * Install dependencies `npm install`
 * Run webpack dev server `npm run build`
-
-## Testing
-
-* This package is using [Jest](https://github.com/facebook/jest)
-  and [vue-test-utils](https://github.com/vuejs/test-utils) for testing.
-* Execute tests with this command `npm test`
 
 ## License
 
