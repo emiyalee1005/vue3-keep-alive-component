@@ -28,7 +28,7 @@ npm i vue3-keep-alive-component -S
 
 ### Use Activated Route
 
-When using <KeepAliveComponent/> and useRoute() together, there will be problem. In this case, use useActivatedRoute() instead.
+When using `<KeepAliveComponent/>` and `useRoute()` together, there will be problem. In this case, use useActivatedRoute() instead.
 
 ```js
 import { useActivatedRoute } from 'vue3-keep-alive-component'
